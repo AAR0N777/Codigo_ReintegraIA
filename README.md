@@ -8,9 +8,8 @@ Este repositorio contiene el avance de implementacion de la landing page del pro
 
 - Equipo ReintegraIA
 - Integrante 1: pendiente de completar
-- Integrante 2: pendiente de completar
+- Integrante 2: Aarón Sebastián Chipana Aguirre - U20241G397
 - Integrante 3: pendiente de completar
-- Integrante 4: pendiente de completar
 
 ## Segmentos objetivo
 
